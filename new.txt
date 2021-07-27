@@ -4,3 +4,4 @@ this is change only from working directory
 this is change in remote repository
 this is another local change
 this is another change in remote repo
+this is change from feature2
